@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemoteController</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	
+	<string name="note_set_ip">请先设置ip地址</string>
+	<string name="note_connect_failed">链接失败，请重新链接</string>
+</resources>
